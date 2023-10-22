@@ -27,6 +27,4 @@ rotation Vector3|number "Initial rotation when spawning"
 rotationOverTime Vector3|number "Change of rotation every tick"
 billboard boolean "Whether the Sprite should always face the camera, only affects Sprite particles"
 ```
-If you find bugs please tell me as this has been made in just a few hours with little testing. Feel free to drop some feature ideas too if you want, but dont be surprised if it doesnt get added :stuck_out_tongue: 
-
-Download: https://discord.com/channels/1129805506354085959/1132326640718970990/1136693731156836372
+If you find bugs please tell me in [the discord post](https://discord.com/channels/1129805506354085959/1132326640718970990/1132326640718970990) as this has been made in just a few hours with little testing. Feel free to drop some feature ideas too if you want, but dont be surprised if it doesnt get added :stuck_out_tongue: 
